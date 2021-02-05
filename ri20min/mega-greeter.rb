@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 class MegaGreeter
   attr_accessor :names
   
